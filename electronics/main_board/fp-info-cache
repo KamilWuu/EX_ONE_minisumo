@@ -1,4 +1,4 @@
-23149005972230808
+23155954938486945
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53661,6 +53661,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DM-OLED096-636
+MODULE_DM-OLED096-636
+
+
+0
+8
+8
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -55663,6 +55670,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32-S3-WROOM-1U-N8R8
+XCVR_ESP32-S3-WROOM-1U-N8R8
+
+
+0
+61
+61
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -87184,6 +87198,13 @@ rotary encoder
 0
 7
 6
+SC0915
+MODULE_SC0915
+
+
+0
+53
+53
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -88836,6 +88857,13 @@ Logo WEEE
 0
 0
 0
+TOFVL53L0X
+TOFVL53L0X
+
+
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
