@@ -495,10 +495,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../fabric/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "main_board_4.step",
       "svg": "",
       "vrml": ""
     },
